@@ -1,0 +1,8 @@
+# Local tooling and editor settings
+.claude/
+.vscode/
+.idea/
+
+# OS noise
+.DS_Store
+Thumbs.db
